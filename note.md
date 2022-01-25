@@ -1,3 +1,0 @@
-# Demo
-
-Vai dong chu !
